@@ -203,10 +203,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     MotoActions \
     MotoCommonOverlay
-    
-# MotoParts
-PRODUCT_PACKAGES += \
-    MotoParts
 
 # Mountpoints
 PRODUCT_PACKAGES += \
